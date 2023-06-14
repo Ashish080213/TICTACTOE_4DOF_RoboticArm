@@ -2,7 +2,9 @@
 
 The 4-degree-of-freedom (4-DOF) robotic arm designed to play tic-tac-toe, incorporating Arduino, OpenCV, and inverse kinematics, is a remarkable creation that brings together multiple technologies to achieve a seamless and intelligent gameplay experience.
 
-In addition to its servo motor-controlled joints and OpenCV integration, the robotic arm utilizes inverse kinematics algorithms to precisely position and orient the end effector—where the coin is held—over the desired cell on the game board. Inverse kinematics calculates the joint angles required to achieve a particular end effector position, ensuring accurate placement of the coin during gameplay.![image](https://github.com/Ashish080213/TICTACTOE_4DOF_RoboticArm/assets/92209111/e34a56c7-5294-4696-8851-f6f8229a01ab)
+In addition to its servo motor-controlled joints and OpenCV integration, the robotic arm utilizes inverse kinematics algorithms to precisely position and orient the end effector—where the coin is held—over the desired cell on the game board. Inverse kinematics calculates the joint angles required to achieve a particular end effector position, ensuring accurate placement of the coin during gameplay.
+
+![image](https://github.com/Ashish080213/TICTACTOE_4DOF_RoboticArm/assets/92209111/e34a56c7-5294-4696-8851-f6f8229a01ab)
 
 
 As the game progresses, the robotic arm's camera captures the current state of the tic-tac-toe grid, and OpenCV processes the image to determine the opponent's moves. Simultaneously, inverse kinematics algorithms come into play, analyzing the desired position of the coin and calculating the corresponding joint angles for the robotic arm. This enables the arm to reach and place the coin with utmost precision, ensuring it lands in the intended cell.
