@@ -10,6 +10,8 @@ As the game progresses, the robotic arm's camera captures the current state of t
 
 By employing inverse kinematics, the robotic arm exhibits advanced spatial reasoning, calculating joint angles that allow it to manipulate the end effector in a controlled and efficient manner. The integration of inverse kinematics with the existing Arduino and OpenCV setup enhances the arm's ability to perform complex tasks while adapting to the dynamic nature of the game.
 
+<img width="960" alt="final_pic" src="https://github.com/Ashish080213/TICTACTOE_4DOF_RoboticArm/assets/92209111/bce20cc1-3638-4e34-975b-5848c0d0deec">
+
 The combination of Arduino, OpenCV, and inverse kinematics not only showcases the robotic arm's prowess in playing tic-tac-toe but also highlights its potential in various real-world applications. The ability to accurately position objects in space has implications in industries such as manufacturing, assembly lines, and robotic surgery. The integration of computer vision and inverse kinematics further expands the possibilities for human-robot collaboration, creating a foundation for more intricate tasks and interactive experiences.
 
 ![p6](https://github.com/Ashish080213/TICTACTOE_4DOF_RoboticArm/assets/92209111/fd60770a-65e5-452f-974f-6c4c3cc13816)
